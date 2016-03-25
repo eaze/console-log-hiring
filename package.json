@@ -1,0 +1,29 @@
+{
+  "name": "eaze-console-log-hiring",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Print a hiring message to the console",
+  "license": "MIT",
+  "repository": "bendrucker/console-log-hiring",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "eaze",
+    "hiring",
+    "console",
+    "log"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
