@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Print a hiring message to the console",
   "license": "MIT",
-  "repository": "bendrucker/console-log-hiring",
+  "repository": "eaze/console-log-hiring",
   "author": {
     "name": "Ben Drucker",
     "email": "bvdrucker@gmail.com",

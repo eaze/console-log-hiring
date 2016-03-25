@@ -1,4 +1,4 @@
-# console-log-hiring [![Build Status](https://travis-ci.org/bendrucker/console-log-hiring.svg?branch=master)](https://travis-ci.org/bendrucker/console-log-hiring)
+# console-log-hiring [![Build Status](https://travis-ci.org/eaze/console-log-hiring.svg?branch=master)](https://travis-ci.org/eaze/console-log-hiring)
 
 > Print a hiring message to the console
 
