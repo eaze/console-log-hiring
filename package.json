@@ -1,7 +1,7 @@
 {
   "name": "eaze-console-log-hiring",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Print a hiring message to the console",
   "license": "MIT",
   "repository": "bendrucker/console-log-hiring",
